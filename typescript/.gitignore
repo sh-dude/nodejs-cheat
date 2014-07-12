@@ -1,2 +1,2 @@
-/index.js
-/.watch.pid
+*.js
+.watch.pid
