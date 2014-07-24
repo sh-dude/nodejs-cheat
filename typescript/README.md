@@ -47,7 +47,9 @@ Watch and compile the `my-script.ts` on change:
 
 * [Handbook](http://www.typescriptlang.org/Handbook) - is good place to start
 
-* [Language source and examples](http://typescript.codeplex.com/SourceControl/latest#README.txt)
+* [Language source](https://github.com/Microsoft/TypeScript)
+
+* [Samples](https://github.com/Microsoft/TypeScriptSamples)
 
 * [Language Specification](http://www.typescriptlang.org/Content/TypeScript%20Language%20Specification.pdf)
 
